@@ -1,6 +1,6 @@
-[![Latest Stable Version](https://poser.pugx.org/rubyrainbows/io/version.svg)](https://packagist.org/packages/rubyrainbows/io)
-[![Total Downloads](https://poser.pugx.org/rubyrainbows/io/downloads.svg)](https://packagist.org/packages/rubyrainbows/io)
-[![Build Status](https://travis-ci.org/rubyrainbows/php-io.svg?branch=master)](https://travis-ci.org/rubyrainbows/php-io)
+[![Latest Stable Version](https://poser.pugx.org/philasearch/io/version.svg)](https://packagist.org/packages/philasearch/io)
+[![Total Downloads](https://poser.pugx.org/philasearch/io/downloads.svg)](https://packagist.org/packages/philasearch/io)
+[![Build Status](https://travis-ci.org/philasearch/php-io.svg?branch=master)](https://travis-ci.org/philasearch/php-io)
 
 # PHP IO
 
