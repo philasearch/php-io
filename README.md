@@ -11,8 +11,8 @@ PHP IO is a small library built to work with directories and folders.
 ```php
 <?php
 
-use RubyRainbows\IO\Directory as Directory;
-use RubyRainbows\IO\File      as File;
+use Philasearch\IO\Directory as Directory;
+use Philasearch\IO\File      as File;
 
 $dir = new Directory( '/path/to/directory' );
 
