@@ -4,18 +4,17 @@
  * File.php
  *
  * @author    Thomas Muntaner thomas.muntaner@gmail.com
- * @copyright 2014 Thomas Muntaner
  * @version   1.0.0
  */
 
-namespace RubyRainbows\IO;
+namespace Philasearch\IO;
 
 /**
  * Class File
  *
  * This class interfaces with a file
  *
- * @package RubyRainbows\IO
+ * @package Philasearch\IO
  * 
  */
 class File

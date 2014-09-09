@@ -1,7 +1,7 @@
 <?php
 
-use RubyRainbows\IO\Directory as Directory;
-use RubyRainbows\IO\File      as File;
+use Philasearch\IO\Directory as Directory;
+use Philasearch\IO\File      as File;
 
 class FileTest extends TestCase
 {
